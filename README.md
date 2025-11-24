@@ -22,9 +22,6 @@ Task A assigned for the lab:  <br/>
 <img src="A2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="Image 3.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Task B assigned for the lab:  <br/>
 <img src="PartB.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
